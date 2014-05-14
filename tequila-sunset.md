@@ -1,4 +1,4 @@
-# Tequilia Sunrise
+# Tequilia Sunset
 
 ## Ingredients
 * Tequila
